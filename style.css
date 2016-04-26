@@ -15,12 +15,12 @@ h1,h2,h3,h4,h5,h6{font-family:'GT Sectra Display Trial'}
 .floatright{
 z-index: 10;  
 position: absolute;  
-right: 20;  
+right: 1;  
 top: 0;}
 
 .floatleft{
 z-index: 10;  
 position: absolute;  
-left: 20;  
+left: 1;  
 top: 0;}
 /*# sourceMappingURL=style.css.map */

@@ -13,14 +13,12 @@ h1,h2,h3,h4,h5,h6{font-family:'GT Sectra Display Trial'}
 .where-bmo-at{text-align:center;cursor:url(bmo.gif),crosshair}.bmo-is-here{margin:auto;height:100vh}code{line-height:1.3}
 
 .floatright{
-z-index: 10;  
-position: absolute;  
-right: 1;  
-top: 0;}
+float:right;
+}
 
 .floatleft{
-z-index: 9;  
-position: absolute;  
-right: 20;  
-top: 0;}
+  float: left;			
+}
+
+.clear{clear:both;}
 /*# sourceMappingURL=style.css.map */

@@ -11,4 +11,10 @@ h1,h2,h3,h4,h5,h6{font-family:'GT Sectra Display Trial'}
 .slide:target{display:table}.slide-content{display:table-cell;vertical-align:middle;max-width:42rem;margin:0 auto}
 .slide-title:target{width:100vw;background:url("title.png") center center no-repeat transparent;background-size:cover}
 .where-bmo-at{text-align:center;cursor:url(bmo.gif),crosshair}.bmo-is-here{margin:auto;height:100vh}code{line-height:1.3}
+
+.floatright{
+z-index: 10;  
+position: absolute;  
+right: 0;  
+top: 0;}
 /*# sourceMappingURL=style.css.map */
